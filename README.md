@@ -1,5 +1,5 @@
-# Related Papers
-- Baojie Fu, Tong Tang, Dapeng Wu, et al. Interest-Aware Joint Caching, Computing, and Communication Optimization for Mobile VR Delivery in MEC Networks
+# Related Paper
+- Baojie Fu, Tong Tang, Dapeng Wu, and Ruyan Wang, Interest-Aware Joint Caching, Computing, and Communication Optimization for Mobile VR Delivery in MEC Networks (2024). arXiv: 2403.05851.
 
 ***Any use of the codes should explicitly cite the aforementioned paper.***
 
